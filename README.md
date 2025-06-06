@@ -1,4 +1,4 @@
-# The-World-Bank-s-international-debt-data
+# The-World-Banks-international-debt-data
 SQL Data Analysis
 
 ### The World Bank's international debt data
